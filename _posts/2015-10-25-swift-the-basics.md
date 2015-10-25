@@ -5,7 +5,7 @@
 - 상수 : 변경할 수 없다.
 - 변수 : 변경할 수 있다.
 
-```swift
+```
 let maximumNumberOfLoginAttempts = 10  // 상수 선언
 var currentLoginAttempt = 0 // 변수 선언
 
